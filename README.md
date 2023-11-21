@@ -5,13 +5,17 @@
 ## Prerequisites
 To effectively utilize this notebook, ensure the following prerequisites are installed:
 
-Python 3.x
+Python 3.9
+
 Jupyter Notebook
+
 Libraries: numpy, opencv-python (cv2), TensorFlow, scikit-learn (sklearn), tqdm, os, time, pickle
 
 ## Installation
 Install Python and Jupyter Notebook.
+
 Clone or download the repository containing this notebook.
+
 Install the required libraries. You can use the command pip install numpy opencv-python tensorflow scikit-learn tqdm.
 
 ## How to Use
