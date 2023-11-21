@@ -5,23 +5,23 @@
 ## Prerequisites
 To effectively utilize this notebook, ensure the following prerequisites are installed:
 
-Python 3.9
+- Python 3.9
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Libraries: numpy, opencv-python (cv2), TensorFlow, scikit-learn (sklearn), tqdm, os, time, pickle
+- Libraries: numpy, opencv-python (cv2), TensorFlow, scikit-learn (sklearn), tqdm, os, time, pickle
 
 ## Installation
-Install Python and Jupyter Notebook.
+- Install Python and Jupyter Notebook.
 
-Clone or download the repository containing this notebook.
+- Clone or download the repository containing this notebook.
 
-Install the required libraries. You can use the command pip install numpy opencv-python tensorflow scikit-learn tqdm.
+- Install the required libraries. You can use the command pip install numpy opencv-python tensorflow scikit-learn tqdm.
 
 ## How to Use
-Start Jupyter Notebook in your environment.
-Navigate to the directory containing "ML_paper_review.ipynb".
-Open the notebook to engage with the content, which is divided into the following sections:
+- Start Jupyter Notebook in your environment.
+- Navigate to the directory containing "ML_paper_review.ipynb".
+- Open the notebook to engage with the content, which is divided into the following sections:
 
 ## Notebook Structure
 1. Paper Review: An overview and summary of machine learning papers, with a focus on their methodologies and results.
